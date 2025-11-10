@@ -1,3 +1,3 @@
 # Clasic-ML
  
-The project work, but steel in develop stage
+The project work, but still in develop stage
